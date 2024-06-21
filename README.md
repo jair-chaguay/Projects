@@ -24,7 +24,7 @@ Aquí encontrarás los proyectos que he realizado a lo largo de mi carrera.
 | **Sistema de Pedidos**    |Programa de un sistema de pedidas                              | Java, JavaFx | [Ver más](https://github.com/jair-chaguay/Sistema_de_Pedidos) |
 | **Duolingo**    | Sistema de base de datos de la aplicación de Duolingo                             | MySQL, Java, JavaFx        | [Ver más](https://github.com/jair-chaguay/Simulacion_Bd_Duolingo) |
 | **App de Contactos**    | Programa que simula una app de Contactos                               | Java, JavaFx    | [Ver más](https://github.com/Niariasve/AppContactos) |
-| **Tres en Raya**    | Programa de un juego de Tres en Raya                            | Java, JavaFX  | [Ver más]([https://github.com/tu-usuario/proyecto3](https://github.com/jair-chaguay/AppTicTacToe)) |
+| **Tres en Raya**    | Programa de un juego de Tres en Raya                            | Java, JavaFX  | [Ver más](https://github.com/jair-chaguay/AppTicTacToe) |
 | **Curriculm**    | Curriculum Vitae                              | HTML, CSS      | [Ver más](https://jair-chaguay.github.io/curriculum/) |
 | **Marvel+**    | Landing Page de Peliculas y Series de Marvel                              | HTML, CSS, JS    | [Ver más](https://jair-chaguay.github.io/landing_Page/)|
 
